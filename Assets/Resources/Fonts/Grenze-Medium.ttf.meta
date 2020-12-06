@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c7f170a331d0948cfbde433aa101fe33
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grenze
+  fontNames:
+  - Grenze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1ea4e673e175d470689e3fef3757d9cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
